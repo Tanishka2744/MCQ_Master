@@ -48,7 +48,8 @@ Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.
 
 [🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
 [💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
-[🐙 GitHub](https://github.com/Tanishka2744)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
 [📧 Email](mailto:tanishkakhandelwal00@gmail.com)
 
 ---
