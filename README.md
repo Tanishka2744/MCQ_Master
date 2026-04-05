@@ -1,23 +1,56 @@
-# MCQ Master
+# 🌟 MCQ Master
 
-**MCQ Master** is a modern, interactive web-based multiple-choice quiz application built using **HTML, CSS, and JavaScript**. It is designed to provide a professional, user-friendly interface for testing knowledge in any subject.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
-## Features
+**MCQ Master** is an interactive quiz application built using **HTML, CSS, and JavaScript**, designed to provide a **timed quiz experience** with real-time user interaction.
 
-- Clean and modern UI/UX design
-- Responsive layout for both desktop and mobile
-- Countdown timer with auto-submit functionality
-- Previous and Next navigation buttons
-- Submit button on last question to calculate score
-- Instant display of score after submission
-- Suitable for showcasing in portfolio for HR managers
+💡 This project focuses on **logic building, timer-based functionality, and dynamic question handling**, making the quiz more engaging and realistic.
 
-## Demo
+---
 
-Click **Start Test** to begin, select the answers for each question, navigate through questions using **Previous/Next** buttons, and submit the test at the end. Timer counts down from 15 minutes and auto-submits when time runs out.
+## 🌐 Live Demo
 
-## Technologies Used
+[⏱️ View MCQ Master Live](https://mcq-master-omega.vercel.app/)
 
-- HTML
-- CSS
-- JavaScript
+---
+
+## 🌈 Tech Skills
+
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
+
+---
+
+## 💻 About MCQ Master
+
+- Displays **multiple-choice questions dynamically**  
+- Includes a **countdown timer for quiz/session** ⏱️  
+- Tracks user responses and calculates **final score**  
+- Provides **real-time interaction and feedback**  
+- Designed with a **clean and user-friendly interface**  
+- Demonstrates **advanced JavaScript logic with timer functionality**  
+
+---
+
+## 🌱 Learning & Growth
+
+- ⏱️ Implementing **timer-based functionality in JavaScript**  
+- 🧠 Strengthening **logic building and problem-solving skills**  
+- 🎯 Improving **event handling and dynamic updates**  
+- 💻 Enhancing **interactive UI development**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2744/MCQ_Master)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
